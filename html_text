@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Untukmu</title><title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        </head>
+        <body>
+            <div class="container">
+                <label>
+                    <div class="heart">
+                        <img
+src="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/Lope.png">
+             </div>
+             <input id="messageState" type="checkbox" style="display:none">
+             </label>
+            <div class="message">
+                <h1>Untuk kamu</h1>
+                <p>Aku ingin memberitahumu banyak hal,bahwa aku sudah menyukaimu sejak lama 
+tetapi ego dan gengsiku setinggi langit, andai waktu itu aku jujur tentang perasaanku mungkin sekarang kita tidak asing,
+nyatanya aku tidak seberani itu untuk mengungkapkanya, tetapi sekarang aku lihat kau sudah menemukan wanita yang kau cintai
+dan ya kali ini aku hanya bisa diam dan semoga saja wanita yang saat ini bersamamu bisa menjadi sandaran ternyaman untukmu ya
+            <br><br>aku hanya bisa berdoa semoga kamu benar-benar bahagia dengan yang sekarang.
+            <br><br>Dariku orang yang mengagumimu semasa sekolah
+        </p>
+       </div>
+    </div>
+      
+    <script scr="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script scr="script.js"></script>
+        </body>
+        <p>hello world</p>
+        </head>
+            
+        </title></title>
+    </head>
+</html>
